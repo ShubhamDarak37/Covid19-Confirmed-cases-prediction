@@ -16,13 +16,21 @@ System predicts total number of confirmed COVID-19 cases in the India for next 7
 ![Input image](graphs/img4.png)
 
 #### Prediction Results:
-         Predicted_Cases
-  Date                       
+        Predicted_Cases
+  Date  
+  
 2020-05-10            65496
+
 2020-05-11            69034
+
 2020-05-12            72699
+
 2020-05-13            76494
+
 2020-05-14            80420
+
 2020-05-15            84480
+
 2020-05-16            88675
+
 2020-05-17            93009
