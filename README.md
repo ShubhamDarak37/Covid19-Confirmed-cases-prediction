@@ -6,10 +6,10 @@ System predicts total number of confirmed COVID-19 cases in the India for next 7
 #### Graph on total number of confirmed COVID-19 cases in various countries:
 ![Input image](graphs/img1.png)
 
-#### Graph on rise of confirmed COVID-19 cases in the India till 17th May 2020: 
+#### Graph on rise of confirmed COVID-19 cases in the India till 9th May 2020: 
 ![Input image](graphs/img3.png)
 
-#### Graph on actual Vs predicted confirmed COVID-19 cases in the India till 17th May 2020:
+#### Graph on actual Vs predicted confirmed COVID-19 cases in the India till 9th May 2020:
 ![Input image](graphs/img2.png)
 
 #### Graph on total number of confirmed COVID-19 cases in the India till 16th May 2020 predicted by the model:
